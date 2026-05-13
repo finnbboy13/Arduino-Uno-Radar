@@ -2,27 +2,41 @@
 Radar with customisable scan range, using a 5V stepper motor and an ultrasonic sensor.
 
 PARTS LIST:
+
 1 x Arduino Uno
+
 1 x Breadboard 
+
 1 x 28BYJ-48 5V stepper motor
+
 1 x ULN2003 module
+
 1 x HC-SR04 Ultrasonic sensor
+
 1 x Joystick
+
 2 x Push buttons/Tact switches 
+
 A load of wires
 
 
 WIRING:
 
 USB                              ->            Arduino
+
 Arduino 5V                       ->            Breadboard + rail
+
 Arduino GND                      ->            Breadboard - rail
 
 28BYJ-48 5V stepper motor        ->            ULN2003 module
+
 ULN2003 module 5v +              ->            Breadboard + rail
+
 ULN2003 module 5v -              ->            Breadboard - rail
 
 TO BE CONTINUED.........
+
+
 
 
 
