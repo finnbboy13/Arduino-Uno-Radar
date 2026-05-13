@@ -1,5 +1,5 @@
 # Arduino-Uno-Radar
-Radar with customisable scan range, using a 5V stepper motor and an ultrasonic sensor.
+Radar with customisable scan range using a 5V stepper motor, a joystick, buttons and an ultrasonic sensor.
 
 PARTS LIST:
 
