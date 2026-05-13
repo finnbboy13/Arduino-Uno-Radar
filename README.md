@@ -19,6 +19,7 @@ PARTS LIST:
 
 A load of wires
 
+<img width="400" height="500" alt="IMG_5003" src="https://github.com/user-attachments/assets/766c05da-cb17-445e-8d31-244d762f09e5" />
 
 WIRING:
 
