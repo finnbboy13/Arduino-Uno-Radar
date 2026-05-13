@@ -84,7 +84,7 @@ HOW TO USE:
    The radar should now start to sweep at the set range.
 
    
-6. *IMPORTANT* Close Arduino IDE *IMPORTANT*
+6. *IMPORTANT* - Close Arduino IDE
 7. Install & open Processing
 8. Download and open the file named 'Radar_Working.pde'
 9. Click on 'run'
