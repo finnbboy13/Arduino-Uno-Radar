@@ -44,7 +44,7 @@ HOW TO USE:
 
 1. Make sure everything is wired up correctly as instructed above
 2. Open Arduino IDE
-3. Download and open the file named 'StepMotorRadarSetLimitsArduino'
+3. Download and open the file named 'StepMotorRadarSetLimitsArduino.ino'
 4. Upload that code to your Arduino Uno via Arduino IDE
 5. Test the code uploaded correctly:
    Move the joystick left and right - the radar should move.
